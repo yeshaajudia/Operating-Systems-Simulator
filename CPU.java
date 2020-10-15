@@ -1,4 +1,6 @@
 /*
+This class is the main processor the system. It is the CPU, the central Processing Unit.
+
 f. This class is the CPU class that call and execute all other related Classes including Loader, Memory, CPU_Stack, Error_Handler
 g.---
 */

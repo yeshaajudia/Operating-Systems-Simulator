@@ -1,4 +1,7 @@
 /*
+This class is used for conversion from binary to decimal and viceversa.
+
+
 f. This class is the Binary_Decimal_convert class that has two main method for converting Decimal to binary and Binary to Decimal.
 g.---
 */
