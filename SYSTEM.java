@@ -1,4 +1,7 @@
 /*
+Main file of the simulator where all cpu is running...
+This is the OS group project of Kalki, Yesha and Kartavi.
+
 a. Name: Reza Marzban
 c. Simulation Project, Phase 3
 d. Date: 04/10/2018
